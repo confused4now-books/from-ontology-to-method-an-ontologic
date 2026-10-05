@@ -7,7 +7,7 @@ authors:
 
 # From Ontology to Method: An Ontologically Situated Critical Realist Approach to Research Methodology
 
-This paper shows how the quantitative-qualitative divide reflects the philosophical problem of the epistemic fallacy, which collapses questions about what exists into questions about how we can know it and proposes, in response, a hybrid integration of three Critical Realist models of social change.
+This paper shows how the quantitative-qualitative divide reflects the philosophical problem of the epistemic fallacy, which collapses questions about what exists into questions about how we can know it and proposes, in response, a hybrid integration of three Critical Realist models of social change. (test)
 
 ## Contents
 
