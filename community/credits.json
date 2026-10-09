@@ -1,29 +1,4 @@
 {
   "version": 1,
-  "contributors": [
-    {
-      "name": "book-requests",
-      "github": "textbookproject2026-alt",
-      "counts": {
-        "edit": 0,
-        "note": 0,
-        "suggestion": 0,
-        "commit": 1
-      },
-      "contributions": [
-        {
-          "kind": "commit",
-          "ref": "e514d3b",
-          "url": "https://github.com/confused4now-books/from-ontology-to-method-an-ontologic/commit/e514d3bcfb78dfb0beaaf5cb4faf956640c286f0",
-          "date": "2026-09-26",
-          "pages": [
-            "chapters/Definitions/Example concept.md",
-            "chapters/chapter-01.md",
-            "glossary.md",
-            "index.md"
-          ]
-        }
-      ]
-    }
-  ]
+  "contributors": []
 }
