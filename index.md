@@ -9,6 +9,12 @@ authors:
 
 This paper shows how the quantitative-qualitative divide reflects the philosophical problem of the epistemic fallacy, which collapses questions about what exists into questions about how we can know it and proposes, in response, a hybrid integration of three Critical Realist models of social change.
 
+## Abstract
+
+The quantitative-qualitative divide in social research reflects a deeper philosophical problem: the epistemic fallacy, which collapses questions about what exists into questions about how we can know it. When ontological commitments remain implicit, competing methodological approaches rest on incompatible assumptions that generate irresolvable debate. This paper does two things. First, it diagnoses the epistemic fallacy as the root cause of the methodological divide. Second, it demonstrates a systematic response through a hybrid framework integrating Bhaskar's dialectical critical realism, Archer's morphogenetic approach, and Knio's immanent causality morphogenetic approach. The result is a demonstration that principled methodological pluralism requires prior ontological work.
+
+**Keywords**: *Dialectical Critical Realism, Morphogenetic Approach, Research Methods, Social Ontology, Interdisciplinarity*
+
 ## Contents
 
 - **[[chapters/chapter-02|From Ontology to Method: An Ontologically Situated Critical Realist Approach to Research Methodology]]**
