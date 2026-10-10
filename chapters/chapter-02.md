@@ -16,7 +16,7 @@ This paper argues that transcending the quantitative-qualitative divide needs ex
 
 The paper will proceed in three parts. First, we examine how what Bhaskar (1975; 1979) calls the epistemic fallacy (the reduction of ontological questions about what exists to epistemological questions about what we can know) obscures recognition that the quantitative-qualitative divide constitutes an unnecessary obstacle to realist research, establishing the necessity for explicit social ontology. Second, we outline our hybrid ontological framework, explaining how our hybrid model of Bhaskar's dialectical approach enriched by Archer's and Knio's insights provides tools for explicit ontological analysis. Third, we work through each moment of Bhaskar's four-moment dialectic (1M through 4D), demonstrating how ontological commitments at each level inform methodological approaches to researching structures and agency. By systematically linking ontological commitments to methodological requirements across these four moments, we demonstrate both why explicit social ontology proves necessary and how it enables principled methodological pluralism grounded in understanding what different aspects of social reality actually are and how they operate.
 
-## The Epistemic Fallacy and the Necessity for Explicit Social Ontology
+The Epistemic Fallacy and the Necessity for Explicit Social Ontology
 
 ### Diagnosing the Problem: Why Methodological Solutions Prove Insufficient
 
@@ -54,7 +54,6 @@ The first moment (1M) of Bhaskar's dialectic focuses on non-identity as the grou
 
 ### Key Ontological Commitments About Structures
 
- 
 Structures exist before current actions and provide the conditioning context within which agency operates. Margaret Archer argues that “structure necessarily predates the actions which transform it” (Archer 1995, 90). All social action takes place within contexts that are already structured by previous rounds of social interaction. The dialectical object is understanding how structures condition agency at particular moments, recognizing that agency at this level operates within inherited capabilities rather than having immediate transformative capacity.
 
 *2. Structures as Emergent Properties with Irreducible Powers*
