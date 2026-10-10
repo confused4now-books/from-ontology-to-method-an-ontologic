@@ -11,8 +11,8 @@ This paper shows how the quantitative-qualitative divide reflects the philosophi
 
 ## Contents
 
-- **[[chapters/chapter-01|Chapter 1 — Title of the first chapter]]**
-  One line on what the chapter does.
+- **[[chapters/chapter-02|From Ontology to Method: An Ontologically Situated Critical Realist Approach to Research Methodology]]**
+- [[glossary|Glossary]]
 
 ## Concept index
 
