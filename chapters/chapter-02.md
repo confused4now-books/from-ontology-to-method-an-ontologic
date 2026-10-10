@@ -1,10 +1,3 @@
-From Ontology to Method: An ontologically situated Critical Realist approach to research methodology
-Brandon Sommer, Erasmus University College, Rotterdam
-ORCID 0000-0002-0876-4553
-Correspondence: sommer@euc.eur.nl
-Caroline J. Laschkolnig, Erasmus University College, Rotterdam
-ORCID 0009-0008-6444-7051
-Correspondence: laschkolnig@euc.eur.nl
 Abstract
 The quantitative-qualitative divide in social research reflects a deeper philosophical problem: the epistemic fallacy, which collapses questions about what exists into questions about how we can know it. When ontological commitments remain implicit, competing methodological approaches rest on incompatible assumptions that generate irresolvable debate. This paper does two things. First, it diagnoses the epistemic fallacy as the root cause of the methodological divide. Second, it demonstrates a systematic response through a hybrid framework integrating Bhaskar's dialectical critical realism, Archer's morphogenetic approach, and Knio's immanent causality morphogenetic approach. The result is a demonstration that principled methodological pluralism requires prior ontological work.
 Keywords
