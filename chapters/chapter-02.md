@@ -54,6 +54,7 @@ The first moment (1M) of Bhaskar's dialectic focuses on non-identity as the grou
 
 ### Key Ontological Commitments About Structures
 
+1
 Structures exist before current actions and provide the conditioning context within which agency operates. Margaret Archer argues that “structure necessarily predates the actions which transform it” (Archer 1995, 90). All social action takes place within contexts that are already structured by previous rounds of social interaction. The dialectical object is understanding how structures condition agency at particular moments, recognizing that agency at this level operates within inherited capabilities rather than having immediate transformative capacity.
 
 2. Structures as Emergent Properties with Irreducible Powers
