@@ -13,7 +13,21 @@ The book names no editors.
 
 ## Contributors
 
-No accepted contributions yet. The first accepted edit, note or suggestion puts its author here.
+1 person has contributed so far.
+
+| Contributor | Contributions | Pages | References |
+| --- | --- | --- | --- |
+| Brandon Sommer and Caroline Laschkolnig | 26 commits | [[chapters/chapter-02\|References]], [[index\|From Ontology to Method: An Ontologically Situated Critical Realist Approach to Research Methodology]] | — |
+
+## By page
+
+<a id="page-chapters-chapter-02"></a>
+
+**[[chapters/chapter-02\|References]]**: Brandon Sommer and Caroline Laschkolnig
+
+<a id="page-index"></a>
+
+**[[index\|From Ontology to Method: An Ontologically Situated Critical Realist Approach to Research Methodology]]**: Brandon Sommer and Caroline Laschkolnig
 
 ## How credit works
 
