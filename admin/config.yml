@@ -15,7 +15,7 @@
 
 backend:
   name: github
-  repo: textbookproject2026-alt/from-ontology-to-method-an-ontologic
+  repo: confused4now-books/from-ontology-to-method-an-ontologic
 
   # =====================================================================
   # LOAD-BEARING LINE. Read this before touching it.
